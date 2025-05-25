@@ -1,7 +1,7 @@
 # 📱 Android Login & Register App with SQLite
 
 ## Nama   : Qonita jahratul jannah
-## NIM    : 
+## NIM    : 220220004
 ## Prodi  : Sistem Informasi
 
 ---
@@ -64,22 +64,22 @@
     <td><strong>Tampilan Register</strong></td>
   </tr>
   <tr>
-    <td><img src="Gambar/log.png" width="250"/></td>
-    <td><img src="Gambar/reg.png" width="250"/></td>
+    <td><img src="gambar/log.jng" width="250"/></td>
+    <td><img src="gambar/reg.jng" width="250"/></td>
   </tr>
   <tr>
     <td><strong>Validasi Login</strong></td>
     <td><strong>Password Kurang</strong></td>
   </tr>
   <tr>
-    <td><img src="Gambar/pw_salah.png" width="250"/></td>
-    <td><img src="Gambar/pw_kurang.png" width="250"/></td>
+    <td><img src="gambar/pw_salah.jng" width="250"/></td>
+    <td><img src="gambar/pw_kurang.jng" width="250"/></td>
   </tr>
   <tr>
     <td colspan="2" align="center"><strong>Berhasil Login</strong></td>
   </tr>
   <tr>
-    <td colspan="2" align="center"><img src="Gambar/log_berhasil.png" width="300"/></td>
+    <td colspan="2" align="center"><img src="gambar/log_berhasil.jng" width="300"/></td>
   </tr>
 </table>
 
