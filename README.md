@@ -64,22 +64,22 @@
     <td><strong>Tampilan Register</strong></td>
   </tr>
   <tr>
-    <td><img src="gambar/log.jng" width="250"/></td>
-    <td><img src="gambar/reg.jng" width="250"/></td>
+    <td><img src="gambar/log.jpg" width="250"/></td>
+    <td><img src="gambar/reg.jpg" width="250"/></td>
   </tr>
   <tr>
     <td><strong>Validasi Login</strong></td>
     <td><strong>Password Kurang</strong></td>
   </tr>
   <tr>
-    <td><img src="gambar/pw_salah.jng" width="250"/></td>
-    <td><img src="gambar/pw_kurang.jng" width="250"/></td>
+    <td><img src="gambar/pw_salah.jpg" width="250"/></td>
+    <td><img src="gambar/pw_kurang.jpg" width="250"/></td>
   </tr>
   <tr>
     <td colspan="2" align="center"><strong>Berhasil Login</strong></td>
   </tr>
   <tr>
-    <td colspan="2" align="center"><img src="gambar/log_berhasil.jng" width="300"/></td>
+    <td colspan="2" align="center"><img src="gambar/log_berhasil.jpg" width="300"/></td>
   </tr>
 </table>
 
